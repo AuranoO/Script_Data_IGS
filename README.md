@@ -1,1 +1,1 @@
-# Script_and_data_IGS_Internship_2023
+# Script and Data from Intership 2023 at IGS

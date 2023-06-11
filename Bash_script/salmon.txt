@@ -1,0 +1,3 @@
+salmon index -t A_castellanii_HiC-Seq+mito+haplo2m2.faa -i salmon_index_Hic_mito_h2m2
+
+salmon quant -i ../ref_kamtchatka/salmon_index_Hic_mito_h1m2 -l ISR -p 7 -1 <(gunzip -c ../read/C_3h_cleanbb_1.fq.gz) -2 <(gunzip -c ../read/C_3h_cleanbb_2.fq.gz) --validateMapping --allowDovetail --writeMappings=test.bam  -o C_3h_counts

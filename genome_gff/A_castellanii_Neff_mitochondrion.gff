@@ -1,0 +1,214 @@
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	37	5123	.	+	1	ID=AccaoMr41;Dbxref=GeneID:1734013;Name=rnl;locus_tag=AccaoMr41
+Acanthamoeba_castellanii_mitochondrion	GenBank	rRNA	37	5123	.	+	1	ID=AccaoMr41.r01;Parent=AccaoMr41;Dbxref=GeneID:1734013;Name=rnl;Note=large subunit (LSU) ribosomal RNA;citation=[2],[3];locus_tag=AccaoMr41;product=23S-like ribosomal RNA
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	37	1806	.	+	1	Parent=AccaoMr41.r01;Name=rnl;locus_tag=AccaoMr41
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	2562	2581	.	+	1	Parent=AccaoMr41.r01;Name=rnl;locus_tag=AccaoMr41
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	3442	4074	.	+	1	Parent=AccaoMr41.r01;Name=rnl;locus_tag=AccaoMr41
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	4828	5123	.	+	1	Parent=AccaoMr41.r01;Name=rnl;locus_tag=AccaoMr41
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	2012	2440	.	+	1	ID=AccaoMp01;Dbxref=GeneID:1734063;Name=AccaoMp01
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	2012	2440	.	+	1	ID=AccaoMp01.t01;Parent=AccaoMp01;Name=AccaoMp01;Note=ORF142
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	2012	2440	.	+	1	ID=AccaoMp01.p01;Parent=AccaoMp01.t01;Dbxref=GeneID:1734063;Name=AccaoMp01;Note=group I orf in rnl intron 1 (AcLSU.m1);citation=[2],[3];codon_start=1;product=ORF142;protein_id=NP_042524.1;transl_table=4;translation=length.142
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	2012	2440	.	+	1	Parent=AccaoMp01.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	2849	3355	.	+	1	ID=AccaoMp02;Dbxref=GeneID:1734064;Name=AccaoMp02
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	2849	3355	.	+	1	ID=AccaoMp02.t01;Parent=AccaoMp02;Name=AccaoMp02;Note=ORF168
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	2849	3355	.	+	1	ID=AccaoMp02.p01;Parent=AccaoMp02.t01;Dbxref=GeneID:1734064;Name=AccaoMp02;Note=group I orf in rnl intron 2 (AcLSU.m2);citation=[2],[3];codon_start=1;number=2;product=ORF168;protein_id=NP_042525.1;transl_table=4;translation=length.168
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	2849	3355	.	+	1	Parent=AccaoMp02.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	4207	4701	.	+	1	ID=AccaoMp03;Dbxref=GeneID:1734065;Name=AccaoMp03
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	4207	4701	.	+	1	ID=AccaoMp03.t01;Parent=AccaoMp03;Name=AccaoMp03;Note=ORF164
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	4207	4701	.	+	1	ID=AccaoMp03.p01;Parent=AccaoMp03.t01;Dbxref=GeneID:1734065;Name=AccaoMp03;Note=group I orf in rnl intron 3 (AcLSU.m3);citation=[2],[3];codon_start=1;number=3;product=ORF164;protein_id=NP_042526.1;transl_table=4;translation=length.164
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	4207	4701	.	+	1	Parent=AccaoMp03.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5157	5227	.	+	1	ID=AccaoMt43;Dbxref=GeneID:1734014;Name=trnI2;locus_tag=AccaoMt43
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	5157	5227	.	+	1	ID=AccaoMt43.r01;Parent=AccaoMt43;Dbxref=GeneID:1734014;Name=trnI2;anticodon=(pos:5189..5191%2Caa:Ile%2Cseq:cat);citation=[2],[3],[5];exception=RNA editing;locus_tag=AccaoMt43;product=tRNA-Ile
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5157	5227	.	+	1	Parent=AccaoMt43.r01;Name=trnI2;locus_tag=AccaoMt43
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5258	5328	.	+	1	ID=AccaoMt44;Dbxref=GeneID:1734015;Name=trnA;locus_tag=AccaoMt44
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	5258	5328	.	+	1	ID=AccaoMt44.r01;Parent=AccaoMt44;Dbxref=GeneID:1734015;Name=trnA;Note=codon recognized: GCA;anticodon=(pos:5290..5292%2Caa:Ala%2Cseq:tgc);citation=[2],[3],[5];codon_recognized=GCA;locus_tag=AccaoMt44;product=tRNA-Ala
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5258	5328	.	+	1	Parent=AccaoMt44.r01;Name=trnA;locus_tag=AccaoMt44
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5336	5408	.	+	1	ID=AccaoMt45;Dbxref=GeneID:1734016;Name=trnP;locus_tag=AccaoMt45
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	5336	5408	.	+	1	ID=AccaoMt45.r01;Parent=AccaoMt45;Dbxref=GeneID:1734016;Name=trnP;Note=codon recognized: CCA;anticodon=(pos:5369..5371%2Caa:Pro%2Cseq:tgg);citation=[2],[3],[5];codon_recognized=CCA;locus_tag=AccaoMt45;product=tRNA-Pro
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5336	5408	.	+	1	Parent=AccaoMt45.r01;Name=trnP;locus_tag=AccaoMt45
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5412	5484	.	+	1	ID=AccaoMt46;Dbxref=GeneID:1734017;Name=trnD;locus_tag=AccaoMt46
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	5412	5484	.	+	1	ID=AccaoMt46.r01;Parent=AccaoMt46;Dbxref=GeneID:1734017;Name=trnD;Note=codon recognized: GAC;anticodon=(pos:5445..5447%2Caa:Asp%2Cseq:gtc);citation=[2],[3],[5];codon_recognized=GAC;locus_tag=AccaoMt46;product=tRNA-Asp
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5412	5484	.	+	1	Parent=AccaoMt46.r01;Name=trnD;locus_tag=AccaoMt46
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5621	5692	.	+	1	ID=AccaoMt47;Dbxref=GeneID:1734018;Name=trnM;locus_tag=AccaoMt47
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	5621	5692	.	+	1	ID=AccaoMt47.r01;Parent=AccaoMt47;Dbxref=GeneID:1734018;Name=trnM;Note=formerly designated trnM2 [2]%2C[3]%3B codon recognized: ATG;anticodon=(pos:5654..5656%2Caa:Met%2Cseq:cat);citation=[2],[3],[5];codon_recognized=AUG;locus_tag=AccaoMt47;product=tRNA-Met
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5621	5692	.	+	1	Parent=AccaoMt47.r01;Name=trnM;locus_tag=AccaoMt47
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	5758	7298	.	+	1	ID=AccaoMr42;Dbxref=GeneID:1734019;Name=rns;locus_tag=AccaoMr42
+Acanthamoeba_castellanii_mitochondrion	GenBank	rRNA	5758	7298	.	+	1	ID=AccaoMr42.r01;Parent=AccaoMr42;Dbxref=GeneID:1734019;Name=rns;Note=small subunit (SSU) ribosomal RNA;citation=[2],[3];locus_tag=AccaoMr42;product=16S-like ribosomal RNA
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	5758	7298	.	+	1	Parent=AccaoMr42.r01;Name=rns;locus_tag=AccaoMr42
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	7353	9974	.	+	1	ID=AccaoMp04;Dbxref=GeneID:1734020;Name=cox1/2;locus_tag=AccaoMp04
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	7353	9974	.	+	1	ID=AccaoMp04.t01;Parent=AccaoMp04;Name=cox1/2;Note=cytochrome oxidase subunit 1 and subunit 2
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	7353	9974	.	+	1	ID=AccaoMp04.p01;Parent=AccaoMp04.t01;Dbxref=GeneID:1734020;Name=cox1/2;Note=A single continuous orf encodes cox1 and cox2;citation=[1],[2];codon_start=1;locus_tag=AccaoMp04;product=cytochrome oxidase subunit 1 and subunit 2;protein_id=NP_042527.1;transl_table=4;translation=length.873
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	7353	9974	.	+	1	Parent=AccaoMp04.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	10223	11347	.	+	1	ID=AccaoMp05;Dbxref=GeneID:1734021;Name=rps4;locus_tag=AccaoMp05
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	10223	11347	.	+	1	ID=AccaoMp05.t01;Parent=AccaoMp05;Name=rps4;Note=ribosomal protein S4
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	10223	11347	.	+	1	ID=AccaoMp05.p01;Parent=AccaoMp05.t01;Dbxref=GeneID:1734021;Name=rps4;citation=[2];codon_start=1;locus_tag=AccaoMp05;product=ribosomal protein S4;protein_id=NP_042528.1;transl_table=4;translation=length.374
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	10223	11347	.	+	1	Parent=AccaoMp05.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	11359	11430	.	+	1	ID=AccaoMt48;Dbxref=GeneID:1734022;Name=trnF;locus_tag=AccaoMt48
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	11359	11430	.	+	1	ID=AccaoMt48.r01;Parent=AccaoMt48;Dbxref=GeneID:1734022;Name=trnF;Note=codon recognized: TTC;anticodon=(pos:11391..11393%2Caa:Phe%2Cseq:gaa);citation=[2];codon_recognized=UUC;locus_tag=AccaoMt48;product=tRNA-Phe
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	11359	11430	.	+	1	Parent=AccaoMt48.r01;Name=trnF;locus_tag=AccaoMt48
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	11548	12330	.	+	1	ID=AccaoMp06;Dbxref=GeneID:1734024;Name=nad6;locus_tag=AccaoMp06
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	11548	12330	.	+	1	ID=AccaoMp06.t01;Parent=AccaoMp06;Name=nad6;Note=NADH dehydrogenasesubunit 6
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	11548	12330	.	+	1	ID=AccaoMp06.p01;Parent=AccaoMp06.t01;Dbxref=GeneID:1734024;eC_number=1.6.5.3;Name=nad6;citation=[2];codon_start=1;locus_tag=AccaoMp06;product=NADH dehydrogenasesubunit 6;protein_id=NP_042529.1;transl_table=4;translation=length.260
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	11548	12330	.	+	1	Parent=AccaoMp06.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	12334	14361	.	+	1	ID=AccaoMp07;Dbxref=GeneID:1734025;Name=nad5;locus_tag=AccaoMp07
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	12334	14361	.	+	1	ID=AccaoMp07.t01;Parent=AccaoMp07;Name=nad5;Note=NADH dehydrogenasesubunit 5
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	12334	14361	.	+	1	ID=AccaoMp07.p01;Parent=AccaoMp07.t01;Dbxref=GeneID:1734025;eC_number=1.6.5.3;Name=nad5;citation=[2];codon_start=1;locus_tag=AccaoMp07;number=5;product=NADH dehydrogenasesubunit 5;protein_id=NP_042530.1;transl_table=4;translation=length.675
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	12334	14361	.	+	1	Parent=AccaoMp07.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	14361	16388	.	+	1	ID=AccaoMp08;Dbxref=GeneID:1734026;Name=nad11;locus_tag=AccaoMp08
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	14361	16388	.	+	1	ID=AccaoMp08.t01;Parent=AccaoMp08;Name=nad11;Note=NADH dehydrogenasesubunit 11
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	14361	16388	.	+	1	ID=AccaoMp08.p01;Parent=AccaoMp08.t01;Dbxref=GeneID:1734026;eC_number=1.6.5.3;Name=nad11;Note=similar to NuoG of E. coli%2C Swiss-Prot Accession Number P33602;citation=[2];codon_start=1;locus_tag=AccaoMp08;product=NADH dehydrogenasesubunit 11;protein_id=NP_042531.1;transl_table=4;translation=length.675
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	14361	16388	.	+	1	Parent=AccaoMp08.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	16538	17527	.	+	1	ID=AccaoMp09;Dbxref=GeneID:1734027;Name=cox3;locus_tag=AccaoMp09
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	16538	17527	.	+	1	ID=AccaoMp09.t01;Parent=AccaoMp09;Name=cox3;Note=cytochrome oxidasesubunit 3
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	16538	17527	.	+	1	ID=AccaoMp09.p01;Parent=AccaoMp09.t01;Dbxref=GeneID:1734027;eC_number=1.9.3.1;Name=cox3;citation=[2];codon_start=1;locus_tag=AccaoMp09;product=cytochrome oxidasesubunit 3;protein_id=NP_042532.1;transl_table=4;translation=length.329
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	16538	17527	.	+	1	Parent=AccaoMp09.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	17537	19030	.	+	1	ID=AccaoMp10;Dbxref=GeneID:1734028;Name=nad4;locus_tag=AccaoMp10
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	17537	19030	.	+	1	ID=AccaoMp10.t01;Parent=AccaoMp10;Name=nad4;Note=NADH dehydrogenasesubunit 4
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	17537	19030	.	+	1	ID=AccaoMp10.p01;Parent=AccaoMp10.t01;Dbxref=GeneID:1734028;eC_number=1.6.5.3;Name=nad4;citation=[2];codon_start=1;locus_tag=AccaoMp10;product=NADH dehydrogenasesubunit 4;protein_id=NP_042533.1;transl_table=4;translation=length.497
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	17537	19030	.	+	1	Parent=AccaoMp10.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	19035	20618	.	+	1	ID=AccaoMp11;Dbxref=GeneID:1734029;Name=nad2;locus_tag=AccaoMp11
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	19035	20618	.	+	1	ID=AccaoMp11.t01;Parent=AccaoMp11;Name=nad2;Note=NADH dehydrogenasesubunit 2
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	19035	20618	.	+	1	ID=AccaoMp11.p01;Parent=AccaoMp11.t01;Dbxref=GeneID:1734029;eC_number=1.6.5.3;Name=nad2;citation=[2];codon_start=1;locus_tag=AccaoMp11;product=NADH dehydrogenasesubunit 2;protein_id=NP_042534.1;transl_table=4;translation=length.527
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	19035	20618	.	+	1	Parent=AccaoMp11.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	20635	21573	.	+	1	ID=AccaoMp12;Dbxref=GeneID:1734030;Name=rps2;locus_tag=AccaoMp12
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	20635	21573	.	+	1	ID=AccaoMp12.t01;Parent=AccaoMp12;Name=rps2;Note=ribosomal protein S2
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	20635	21573	.	+	1	ID=AccaoMp12.p01;Parent=AccaoMp12.t01;Dbxref=GeneID:1734030;Name=rps2;citation=[2];codon_start=1;locus_tag=AccaoMp12;product=ribosomal protein S2;protein_id=NP_042535.1;transl_table=4;translation=length.312
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	20635	21573	.	+	1	Parent=AccaoMp12.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	21596	21668	.	+	1	ID=AccaoMt50;Dbxref=GeneID:1734031;Name=trnH;locus_tag=AccaoMt50
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	21596	21668	.	+	1	ID=AccaoMt50.r01;Parent=AccaoMt50;Dbxref=GeneID:1734031;Name=trnH;Note=codon recognized: CAC;anticodon=(pos:21630..21632%2Caa:His%2Cseq:gtg);citation=[2];codon_recognized=CAC;locus_tag=AccaoMt50;product=tRNA-His
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	21596	21668	.	+	1	Parent=AccaoMt50.r01;Name=trnH;locus_tag=AccaoMt50
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	21674	21755	.	+	1	ID=AccaoMt51;Dbxref=GeneID:1734032;Name=trnL2;locus_tag=AccaoMt51
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	21674	21755	.	+	1	ID=AccaoMt51.r01;Parent=AccaoMt51;Dbxref=GeneID:1734032;Name=trnL2;Note=codon recognized: TTA;anticodon=(pos:21708..21710%2Caa:Leu%2Cseq:taa);citation=[2];codon_recognized=UUA;locus_tag=AccaoMt51;product=tRNA-Leu
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	21674	21755	.	+	1	Parent=AccaoMt51.r01;Name=trnL2;locus_tag=AccaoMt51
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	22372	22611	.	+	1	ID=AccaoMp13;Dbxref=GeneID:1734033;Name=atp9;locus_tag=AccaoMp13
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	22372	22611	.	+	1	ID=AccaoMp13.t01;Parent=AccaoMp13;Name=atp9;Note=H(+)-transporting ATPasesubunit 9
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	22372	22611	.	+	1	ID=AccaoMp13.p01;Parent=AccaoMp13.t01;Dbxref=GeneID:1734033;eC_number=3.6.3.14;Name=atp9;citation=[2];codon_start=1;locus_tag=AccaoMp13;product=H(+)-transporting ATPasesubunit 9;protein_id=NP_042536.1;transl_table=4;translation=length.79
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	22372	22611	.	+	1	Parent=AccaoMp13.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	22630	22714	.	+	1	ID=AccaoMt52;Dbxref=GeneID:1734034;Name=trnY;locus_tag=AccaoMt52
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	22630	22714	.	+	1	ID=AccaoMt52.r01;Parent=AccaoMt52;Dbxref=GeneID:1734034;Name=trnY;Note=codon recognized: TAC;anticodon=(pos:22666..22668%2Caa:Tyr%2Cseq:gta);citation=[2];codon_recognized=UAC;locus_tag=AccaoMt52;product=tRNA-Tyr
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	22630	22714	.	+	1	Parent=AccaoMt52.r01;Name=trnY;locus_tag=AccaoMt52
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	22743	23900	.	+	1	ID=AccaoMp14;Dbxref=GeneID:1734035;Name=cob;locus_tag=AccaoMp14
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	22743	23900	.	+	1	ID=AccaoMp14.t01;Parent=AccaoMp14;Name=cob;Note=cytochrome b
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	22743	23900	.	+	1	ID=AccaoMp14.p01;Parent=AccaoMp14.t01;Dbxref=GeneID:1734035;eC_number=1.10.2.2;Name=cob;citation=[2];codon_start=1;locus_tag=AccaoMp14;product=cytochrome b;protein_id=NP_042537.1;transl_table=4;translation=length.385
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	22743	23900	.	+	1	Parent=AccaoMp14.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	23900	24211	.	+	1	ID=AccaoMp15;Dbxref=GeneID:1734036;Name=nad4L;locus_tag=AccaoMp15
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	23900	24211	.	+	1	ID=AccaoMp15.t01;Parent=AccaoMp15;Name=nad4L;Note=NADH dehydrogenasesubunit 4L
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	23900	24211	.	+	1	ID=AccaoMp15.p01;Parent=AccaoMp15.t01;Dbxref=GeneID:1734036;eC_number=1.6.5.3;Name=nad4L;citation=[2];codon_start=1;locus_tag=AccaoMp15;product=NADH dehydrogenasesubunit 4L;protein_id=NP_042538.1;transl_table=4;translation=length.103
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	23900	24211	.	+	1	Parent=AccaoMp15.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	24220	24471	.	+	1	ID=AccaoMp16;Dbxref=GeneID:1734066;Name=AccaoMp16
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	24220	24471	.	+	1	ID=AccaoMp16.t01;Parent=AccaoMp16;Name=AccaoMp16;Note=ORF83
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	24220	24471	.	+	1	ID=AccaoMp16.p01;Parent=AccaoMp16.t01;Dbxref=GeneID:1734066;Name=AccaoMp16;Note=orf83%3B ymf49%3B unique orf;citation=[2];codon_start=1;product=ORF83;protein_id=NP_042539.1;transl_table=4;translation=length.83
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	24220	24471	.	+	1	Parent=AccaoMp16.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	24839	25186	.	+	1	ID=AccaoMp17;Dbxref=GeneID:1734067;Name=AccaoMp17
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	24839	25186	.	+	1	ID=AccaoMp17.t01;Parent=AccaoMp17;Name=AccaoMp17;Note=ORF115
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	24839	25186	.	+	1	ID=AccaoMp17.p01;Parent=AccaoMp17.t01;Dbxref=GeneID:1734067;Name=AccaoMp17;Note=orf115%3B ymf50%3B unique orf;citation=[2];codon_start=1;product=ORF115;protein_id=NP_042540.1;transl_table=4;translation=length.115
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	24839	25186	.	+	1	Parent=AccaoMp17.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	25416	26984	.	+	1	ID=AccaoMp18;Dbxref=GeneID:1734037;Name=atp1;locus_tag=AccaoMp18
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	25416	26984	.	+	1	ID=AccaoMp18.t01;Parent=AccaoMp18;Name=atp1;Note=H(+)-transporting ATPasesubunit 1
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	25416	26984	.	+	1	ID=AccaoMp18.p01;Parent=AccaoMp18.t01;Dbxref=GeneID:1734037;eC_number=3.6.3.14;Name=atp1;Note=atpA;citation=[2];codon_start=1;locus_tag=AccaoMp18;product=H(+)-transporting ATPasesubunit 1;protein_id=NP_042541.1;transl_table=4;translation=length.522
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	25416	26984	.	+	1	Parent=AccaoMp18.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	27010	28119	.	+	1	ID=AccaoMp19;Dbxref=GeneID:1734038;Name=nad1;locus_tag=AccaoMp19
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	27010	28119	.	+	1	ID=AccaoMp19.t01;Parent=AccaoMp19;Name=nad1;Note=NADH dehydrogenasesubunit 1
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	27010	28119	.	+	1	ID=AccaoMp19.p01;Parent=AccaoMp19.t01;Dbxref=GeneID:1734038;eC_number=1.6.5.3;Name=nad1;citation=[2];codon_start=1;locus_tag=AccaoMp19;product=NADH dehydrogenasesubunit 1;protein_id=NP_042542.1;transl_table=4;translation=length.369
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	27010	28119	.	+	1	Parent=AccaoMp19.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	28151	28221	.	+	1	ID=AccaoMt53;Dbxref=GeneID:1734039;Name=trnW;locus_tag=AccaoMt53
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	28151	28221	.	+	1	ID=AccaoMt53.r01;Parent=AccaoMt53;Dbxref=GeneID:1734039;Name=trnW;Note=codon recognized: TGG;anticodon=(pos:28183..28185%2Caa:Trp%2Cseq:cca);citation=[2];codon_recognized=UGG;locus_tag=AccaoMt53;product=tRNA-Trp
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	28151	28221	.	+	1	Parent=AccaoMt53.r01;Name=trnW;locus_tag=AccaoMt53
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	28249	29268	.	+	1	ID=AccaoMp20;Dbxref=GeneID:1734040;Name=rpl11;locus_tag=AccaoMp20
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	28249	29268	.	+	1	ID=AccaoMp20.t01;Parent=AccaoMp20;Name=rpl11;Note=ribosomal protein L11
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	28249	29268	.	+	1	ID=AccaoMp20.p01;Parent=AccaoMp20.t01;Dbxref=GeneID:1734040;Name=rpl11;citation=[2];codon_start=1;locus_tag=AccaoMp20;product=ribosomal protein L11;protein_id=NP_042543.1;transl_table=4;translation=length.339
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	28249	29268	.	+	1	Parent=AccaoMp20.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	29234	29617	.	+	1	ID=AccaoMp21;Dbxref=GeneID:1734041;Name=rps12;locus_tag=AccaoMp21
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	29234	29617	.	+	1	ID=AccaoMp21.t01;Parent=AccaoMp21;Name=rps12;Note=ribosomal protein S12
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	29234	29617	.	+	1	ID=AccaoMp21.p01;Parent=AccaoMp21.t01;Dbxref=GeneID:1734041;Name=rps12;citation=[2];codon_start=1;locus_tag=AccaoMp21;product=ribosomal protein S12;protein_id=NP_042544.1;transl_table=4;translation=length.127
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	29234	29617	.	+	1	Parent=AccaoMp21.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	29589	30602	.	+	1	ID=AccaoMp22;Dbxref=GeneID:1734042;Name=rps7;locus_tag=AccaoMp22
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	29589	30602	.	+	1	ID=AccaoMp22.t01;Parent=AccaoMp22;Name=rps7;Note=ribosomal protein S7
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	29589	30602	.	+	1	ID=AccaoMp22.p01;Parent=AccaoMp22.t01;Dbxref=GeneID:1734042;Name=rps7;citation=[2];codon_start=1;locus_tag=AccaoMp22;product=ribosomal protein S7;protein_id=NP_042545.1;transl_table=4;translation=length.337
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	29589	30602	.	+	1	Parent=AccaoMp22.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	30604	31365	.	+	1	ID=AccaoMp23;Dbxref=GeneID:1734043;Name=rpl2;locus_tag=AccaoMp23
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	30604	31365	.	+	1	ID=AccaoMp23.t01;Parent=AccaoMp23;Name=rpl2;Note=ribosomal protein L2
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	30604	31365	.	+	1	ID=AccaoMp23.p01;Parent=AccaoMp23.t01;Dbxref=GeneID:1734043;Name=rpl2;citation=[2];codon_start=1;locus_tag=AccaoMp23;product=ribosomal protein L2;protein_id=NP_042546.1;transl_table=4;translation=length.253
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	30604	31365	.	+	1	Parent=AccaoMp23.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	31373	31609	.	+	1	ID=AccaoMp24;Dbxref=GeneID:1734044;Name=rps19;locus_tag=AccaoMp24
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	31373	31609	.	+	1	ID=AccaoMp24.t01;Parent=AccaoMp24;Name=rps19;Note=ribosomal protein S19
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	31373	31609	.	+	1	ID=AccaoMp24.p01;Parent=AccaoMp24.t01;Dbxref=GeneID:1734044;Name=rps19;citation=[2];codon_start=1;locus_tag=AccaoMp24;product=ribosomal protein S19;protein_id=NP_042547.1;transl_table=4;translation=length.78
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	31373	31609	.	+	1	Parent=AccaoMp24.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	31609	32505	.	+	1	ID=AccaoMp25;Dbxref=GeneID:1734045;Name=rps3;locus_tag=AccaoMp25
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	31609	32505	.	+	1	ID=AccaoMp25.t01;Parent=AccaoMp25;Name=rps3;Note=ribosomal protein S3
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	31609	32505	.	+	1	ID=AccaoMp25.p01;Parent=AccaoMp25.t01;Dbxref=GeneID:1734045;Name=rps3;citation=[2];codon_start=1;locus_tag=AccaoMp25;product=ribosomal protein S3;protein_id=NP_042548.1;transl_table=4;translation=length.298
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	31609	32505	.	+	1	Parent=AccaoMp25.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	32517	32942	.	+	1	ID=AccaoMp26;Dbxref=GeneID:1734046;Name=rpl16;locus_tag=AccaoMp26
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	32517	32942	.	+	1	ID=AccaoMp26.t01;Parent=AccaoMp26;Name=rpl16;Note=ribosomal protein L16
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	32517	32942	.	+	1	ID=AccaoMp26.p01;Parent=AccaoMp26.t01;Dbxref=GeneID:1734046;Name=rpl16;citation=[2];codon_start=1;locus_tag=AccaoMp26;product=ribosomal protein L16;protein_id=NP_042549.1;transl_table=4;translation=length.141
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	32517	32942	.	+	1	Parent=AccaoMp26.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	32905	33294	.	+	1	ID=AccaoMp27;Dbxref=GeneID:1734047;Name=rpl14;locus_tag=AccaoMp27
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	32905	33294	.	+	1	ID=AccaoMp27.t01;Parent=AccaoMp27;Name=rpl14;Note=ribosomal protein L14
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	32905	33294	.	+	1	ID=AccaoMp27.p01;Parent=AccaoMp27.t01;Dbxref=GeneID:1734047;Name=rpl14;citation=[2];codon_start=1;locus_tag=AccaoMp27;product=ribosomal protein L14;protein_id=NP_042550.1;transl_table=4;translation=length.129
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	32905	33294	.	+	1	Parent=AccaoMp27.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	33294	33827	.	+	1	ID=AccaoMp28;Dbxref=GeneID:1734048;Name=rpl5;locus_tag=AccaoMp28
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	33294	33827	.	+	1	ID=AccaoMp28.t01;Parent=AccaoMp28;Name=rpl5;Note=ribosomal protein L5
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	33294	33827	.	+	1	ID=AccaoMp28.p01;Parent=AccaoMp28.t01;Dbxref=GeneID:1734048;Name=rpl5;citation=[2];codon_start=1;locus_tag=AccaoMp28;product=ribosomal protein L5;protein_id=NP_042551.1;transl_table=4;translation=length.177
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	33294	33827	.	+	1	Parent=AccaoMp28.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	33830	34129	.	+	1	ID=AccaoMp29;Dbxref=GeneID:1734049;Name=rps14;locus_tag=AccaoMp29
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	33830	34129	.	+	1	ID=AccaoMp29.t01;Parent=AccaoMp29;Name=rps14;Note=ribosomal protein S14
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	33830	34129	.	+	1	ID=AccaoMp29.p01;Parent=AccaoMp29.t01;Dbxref=GeneID:1734049;Name=rps14;citation=[2];codon_start=1;locus_tag=AccaoMp29;product=ribosomal protein S14;protein_id=NP_042552.1;transl_table=4;translation=length.99
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	33830	34129	.	+	1	Parent=AccaoMp29.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	34136	34519	.	+	1	ID=AccaoMp30;Dbxref=GeneID:1734050;Name=rps8;locus_tag=AccaoMp30
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	34136	34519	.	+	1	ID=AccaoMp30.t01;Parent=AccaoMp30;Name=rps8;Note=ribosomal protein S8
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	34136	34519	.	+	1	ID=AccaoMp30.p01;Parent=AccaoMp30.t01;Dbxref=GeneID:1734050;Name=rps8;citation=[2];codon_start=1;locus_tag=AccaoMp30;product=ribosomal protein S8;protein_id=NP_042553.1;transl_table=4;translation=length.127
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	34136	34519	.	+	1	Parent=AccaoMp30.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	34524	35069	.	+	1	ID=AccaoMp31;Dbxref=GeneID:1734051;Name=rpl6;locus_tag=AccaoMp31
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	34524	35069	.	+	1	ID=AccaoMp31.t01;Parent=AccaoMp31;Name=rpl6;Note=ribosomal protein L6
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	34524	35069	.	+	1	ID=AccaoMp31.p01;Parent=AccaoMp31.t01;Dbxref=GeneID:1734051;Name=rpl6;citation=[2];codon_start=1;locus_tag=AccaoMp31;product=ribosomal protein L6;protein_id=NP_042554.1;transl_table=4;translation=length.181
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	34524	35069	.	+	1	Parent=AccaoMp31.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	35084	35443	.	+	1	ID=AccaoMp32;Dbxref=GeneID:1734052;Name=rps13;locus_tag=AccaoMp32
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	35084	35443	.	+	1	ID=AccaoMp32.t01;Parent=AccaoMp32;Name=rps13;Note=ribosomal protein S13
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	35084	35443	.	+	1	ID=AccaoMp32.p01;Parent=AccaoMp32.t01;Dbxref=GeneID:1734052;Name=rps13;citation=[2];codon_start=1;locus_tag=AccaoMp32;product=ribosomal protein S13;protein_id=NP_042555.1;transl_table=4;translation=length.119
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	35084	35443	.	+	1	Parent=AccaoMp32.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	35445	35966	.	+	1	ID=AccaoMp33;Dbxref=GeneID:1734053;Name=rps11;locus_tag=AccaoMp33
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	35445	35966	.	+	1	ID=AccaoMp33.t01;Parent=AccaoMp33;Name=rps11;Note=ribosomal protein S11
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	35445	35966	.	+	1	ID=AccaoMp33.p01;Parent=AccaoMp33.t01;Dbxref=GeneID:1734053;Name=rps11;citation=[2];codon_start=1;locus_tag=AccaoMp33;product=ribosomal protein S11;protein_id=NP_042556.1;transl_table=4;translation=length.173
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	35445	35966	.	+	1	Parent=AccaoMp33.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	36289	36717	.	+	1	ID=AccaoMp34;Dbxref=GeneID:1734068;Name=AccaoMp34
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	36289	36717	.	+	1	ID=AccaoMp34.t01;Parent=AccaoMp34;Name=AccaoMp34;Note=ORFB
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	36289	36717	.	+	1	ID=AccaoMp34.p01;Parent=AccaoMp34.t01;Dbxref=GeneID:1734068;Name=AccaoMp34;Note=orf142%3B ymf19%3B function unknown;citation=[2];codon_start=1;product=ORFB;protein_id=NP_042557.1;transl_table=4;translation=length.142
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	36289	36717	.	+	1	Parent=AccaoMp34.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	36707	37081	.	+	1	ID=AccaoMp35;Dbxref=GeneID:1734069;Name=AccaoMp35
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	36707	37081	.	+	1	ID=AccaoMp35.t01;Parent=AccaoMp35;Name=AccaoMp35;Note=ORF25
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	36707	37081	.	+	1	ID=AccaoMp35.p01;Parent=AccaoMp35.t01;Dbxref=GeneID:1734069;Name=AccaoMp35;Note=orf124%3B ymf39%3B function unknown;citation=[2];codon_start=1;product=ORF25;protein_id=NP_042558.1;transl_table=4;translation=length.124
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	36707	37081	.	+	1	Parent=AccaoMp35.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	37125	37481	.	+	1	ID=AccaoMp36;Dbxref=GeneID:1734054;Name=nad3;locus_tag=AccaoMp36
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	37125	37481	.	+	1	ID=AccaoMp36.t01;Parent=AccaoMp36;Name=nad3;Note=NADH dehydrogenasesubunit 3
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	37125	37481	.	+	1	ID=AccaoMp36.p01;Parent=AccaoMp36.t01;Dbxref=GeneID:1734054;eC_number=1.6.5.3;Name=nad3;citation=[2];codon_start=1;locus_tag=AccaoMp36;product=NADH dehydrogenasesubunit 3;protein_id=NP_042559.1;transl_table=4;translation=length.118
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	37125	37481	.	+	1	Parent=AccaoMp36.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	37472	38059	.	+	1	ID=AccaoMp37;Dbxref=GeneID:1734055;Name=nad9;locus_tag=AccaoMp37
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	37472	38059	.	+	1	ID=AccaoMp37.t01;Parent=AccaoMp37;Name=nad9;Note=NADH dehydrogenasesubunit 9
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	37472	38059	.	+	1	ID=AccaoMp37.p01;Parent=AccaoMp37.t01;Dbxref=GeneID:1734055;eC_number=1.6.5.3;Name=nad9;citation=[2];codon_start=1;locus_tag=AccaoMp37;product=NADH dehydrogenasesubunit 9;protein_id=NP_042560.1;transl_table=4;translation=length.195
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	37472	38059	.	+	1	Parent=AccaoMp37.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	38041	39246	.	+	1	ID=AccaoMp38;Dbxref=GeneID:1734056;Name=nad7;locus_tag=AccaoMp38
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	38041	39246	.	+	1	ID=AccaoMp38.t01;Parent=AccaoMp38;Name=nad7;Note=NADH dehydrogenasesubunit 7
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	38041	39246	.	+	1	ID=AccaoMp38.p01;Parent=AccaoMp38.t01;Dbxref=GeneID:1734056;eC_number=1.6.5.3;Name=nad7;citation=[2];codon_start=1;locus_tag=AccaoMp38;product=NADH dehydrogenasesubunit 7;protein_id=NP_042561.1;transl_table=4;translation=length.401
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	38041	39246	.	+	1	Parent=AccaoMp38.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	39250	39993	.	+	1	ID=AccaoMp39;Dbxref=GeneID:1734057;Name=atp6;locus_tag=AccaoMp39
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	39250	39993	.	+	1	ID=AccaoMp39.t01;Parent=AccaoMp39;Name=atp6;Note=H(+)-transporting ATPasesubunit 6
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	39250	39993	.	+	1	ID=AccaoMp39.p01;Parent=AccaoMp39.t01;Dbxref=GeneID:1734057;eC_number=3.6.3.14;Name=atp6;citation=[2];codon_start=1;locus_tag=AccaoMp39;product=H(+)-transporting ATPasesubunit 6;protein_id=NP_042562.1;transl_table=4;translation=length.247
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	39250	39993	.	+	1	Parent=AccaoMp39.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	40059	41108	.	+	1	ID=AccaoMp40;Dbxref=GeneID:1734070;Name=AccaoMp40
+Acanthamoeba_castellanii_mitochondrion	GenBank	mRNA	40059	41108	.	+	1	ID=AccaoMp40.t01;Parent=AccaoMp40;Name=AccaoMp40;Note=ORF349
+Acanthamoeba_castellanii_mitochondrion	GenBank	CDS	40059	41108	.	+	1	ID=AccaoMp40.p01;Parent=AccaoMp40.t01;Dbxref=GeneID:1734070;Name=AccaoMp40;Note=orf349%3B ymf51%3B unique orf;citation=[2];codon_start=1;product=ORF349;protein_id=NP_042563.1;transl_table=4;translation=length.349
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	40059	41108	.	+	1	Parent=AccaoMp40.t01
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	41209	41279	.	+	1	ID=AccaoMt54;Dbxref=GeneID:1734058;Name=trnQ;locus_tag=AccaoMt54
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	41209	41279	.	+	1	ID=AccaoMt54.r01;Parent=AccaoMt54;Dbxref=GeneID:1734058;Name=trnQ;Note=codon recognized: CAA;anticodon=(pos:41241..41243%2Caa:Gln%2Cseq:ttg);citation=[2],[3],[4];codon_recognized=CAA;locus_tag=AccaoMt54;product=tRNA-Gln
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	41209	41279	.	+	1	Parent=AccaoMt54.r01;Name=trnQ;locus_tag=AccaoMt54
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	41279	41351	.	+	1	ID=AccaoMt55;Dbxref=GeneID:1734059;Name=trnK;locus_tag=AccaoMt55
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	41279	41351	.	+	1	ID=AccaoMt55.r01;Parent=AccaoMt55;Dbxref=GeneID:1734059;Name=trnK;Note=codon recognized: AAG;anticodon=(pos:41312..41314%2Caa:Lys%2Cseq:ctt);citation=[4];codon_recognized=AAG;locus_tag=AccaoMt55;product=tRNA-Lys
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	41279	41351	.	+	1	Parent=AccaoMt55.r01;Name=trnK;locus_tag=AccaoMt55
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	41356	41426	.	+	1	ID=AccaoMt56;Dbxref=GeneID:1734060;Name=trnE;locus_tag=AccaoMt56
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	41356	41426	.	+	1	ID=AccaoMt56.r01;Parent=AccaoMt56;Dbxref=GeneID:1734060;Name=trnE;Note=codon recognized: GAA;anticodon=(pos:41388..41390%2Caa:Glu%2Cseq:ttc);citation=[2],[4];codon_recognized=GAA;locus_tag=AccaoMt56;product=tRNA-Glu
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	41356	41426	.	+	1	Parent=AccaoMt56.r01;Name=trnE;locus_tag=AccaoMt56
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	41432	41505	.	+	1	ID=AccaoMt57;Dbxref=GeneID:1734061;Name=trnI1;locus_tag=AccaoMt57
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	41432	41505	.	+	1	ID=AccaoMt57.r01;Parent=AccaoMt57;Dbxref=GeneID:1734061;Name=trnI1;Note=formerly designated trnI [4]%3B codon recognized: ATC;anticodon=(pos:41466..41468%2Caa:Ile%2Cseq:gat);citation=[2],[3],[4];codon_recognized=AUC;locus_tag=AccaoMt57;product=tRNA-Ile
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	41432	41505	.	+	1	Parent=AccaoMt57.r01;Name=trnI1;locus_tag=AccaoMt57
+Acanthamoeba_castellanii_mitochondrion	GenBank	gene	41511	41591	.	+	1	ID=AccaoMt58;Dbxref=GeneID:1734062;Name=trnL1;locus_tag=AccaoMt58
+Acanthamoeba_castellanii_mitochondrion	GenBank	tRNA	41511	41591	.	+	1	ID=AccaoMt58.r01;Parent=AccaoMt58;Dbxref=GeneID:1734062;Name=trnL1;Note=codon recognized: CTA;anticodon=(pos:41544..41546%2Caa:Leu%2Cseq:tag);citation=[2],[4];codon_recognized=CUA;locus_tag=AccaoMt58;product=tRNA-Leu
+Acanthamoeba_castellanii_mitochondrion	GenBank	exon	41511	41591	.	+	1	Parent=AccaoMt58.r01;Name=trnL1;locus_tag=AccaoMt58
